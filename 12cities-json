@@ -24,6 +24,9 @@ function getTemp(){
     case "kakinada": my(dat)
                    Logger.log("kakinada")
                    break
+    case "hyderabad": my(dat)
+                   Logger.log("hyderabad")
+                   break               
             
     case "Melbourne" : my(dat)
                        Logger.log("Melbourne")
