@@ -13,7 +13,7 @@ function getTemp(){
                   break
     
     case "Hobart": my(dat)
-                   Logger.log("Hobart")
+                   Logger.log("hobart")
                    break
             
             
@@ -30,17 +30,17 @@ function getTemp(){
                    break
             
     case "Melbourne" : my(dat)
-                       Logger.log("Melbourne")
+                       Logger.log("melbourne")
                        break
             
     case "Kolkata": my(dat)
-                    Logger.log("Kolkata")
+                    Logger.log("kolkata")
                     break
      case "Mysore": my(dat)
-                   Logger.log("Mysore")
+                   Logger.log("mysore")
                    break
      case "Guntur": my(dat)
-                   Logger.log("Guntur")
+                   Logger.log("guntur")
                    break
 
   }
