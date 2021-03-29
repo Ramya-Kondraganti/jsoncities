@@ -12,12 +12,12 @@ function getTemp(){
                   Logger.log("perth")
                   break
     
-    case "Hobart": my(dat)
+    case "hobart": my(dat)
                    Logger.log("hobart")
                    break
             
             
-    case "Canada": my(dat)
+    case "canada": my(dat)
                    Logger.log("canada")
                    break
                    
@@ -29,17 +29,17 @@ function getTemp(){
                    Logger.log("hyderabad")
                    break
             
-    case "Melbourne" : my(dat)
+    case "melbourne" : my(dat)
                        Logger.log("melbourne")
                        break
             
-    case "Kolkata": my(dat)
+    case "kolkata": my(dat)
                     Logger.log("kolkata")
                     break
-     case "Mysore": my(dat)
+     case "mysore": my(dat)
                    Logger.log("mysore")
                    break
-     case "Guntur": my(dat)
+     case "guntur": my(dat)
                    Logger.log("guntur")
                    break
 
